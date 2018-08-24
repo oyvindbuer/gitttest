@@ -1,6 +1,3 @@
 Dette er fjerde fil
-<<<<<<< HEAD
 Endret i Notepad++
-=======
 Endret i gitHub
->>>>>>> d472d23b91346349d085519d71e11cfcb4f3beef
